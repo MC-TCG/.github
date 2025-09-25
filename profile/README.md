@@ -1,6 +1,6 @@
 # Minecraft Trading Card Game (MC-TCG)
 <p align="center">
-    <img src="/generalRessource/LogoAndTitle/title.png" width="70%">
+    <img src="/generalRessource/LogoAndTitle/Title.png" width="70%">
 </p>
 
 # About
