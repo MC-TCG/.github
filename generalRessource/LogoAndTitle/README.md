@@ -1,0 +1,1 @@
+# Folder use to contain all general resource (EX : logo)
