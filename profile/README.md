@@ -1,6 +1,6 @@
 # Minecraft Trading Card Game (MC-TCG)
 <p align="center">
-    <img src="/generalRessource/LogoAndTitle/Title.png" width="70%">
+    <img src="/generalAsset/logoAndTitle/title.png" width="70%">
 </p>
 
 # About
@@ -11,4 +11,4 @@ Just in case, the visual identity of the project is place holder made in 3 min, 
 
 
 # Useful link
-[General Resource](https://github.com/MC-TCG/.github/tree/main/generalRessource) - [Documentation](/Documentation/README.md)
+[General Resource](https://github.com/MC-TCG/.github/tree/main/generalRessource) - [Documentation](/documentation/README.md)

@@ -1,7 +1,8 @@
 # Naming convention
-### File
+### File / Folder
 - *.java* named after the class they hold and in **UpperCamelCase**
-- *asset* file (png, svg, mp3, gif, ...) in **snake_case**
+- *Asset* file (png, svg, mp3, gif, ...) in **snake_case**
+- *Folder* in **lower camelCase**
 
 ### Variable (lower camelCase)
 
