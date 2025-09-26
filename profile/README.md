@@ -11,4 +11,4 @@ Just in case, the visual identity of the project is place holder made in 3 min, 
 
 
 # Useful link
-[General Resource](https://github.com/MC-TCG/.github/tree/main/generalAsset) - [Documentation](../doc/README.md)
+[General Asset](https://github.com/MC-TCG/.github/tree/main/generalAsset) - [Documentation](../doc/README.md)
