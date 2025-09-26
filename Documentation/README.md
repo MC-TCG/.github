@@ -1,5 +1,5 @@
 # Documentation of MC-TCG
-#### [Naming convention]()
+#### [Naming convention](NamingConvention/README.md)
 #### [Game Design](GameDesign/README.md)
 #### [General Implementation]()
 #### [Server]()
